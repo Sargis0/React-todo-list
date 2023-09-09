@@ -1,0 +1,18 @@
+.list-group {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.list-group-item {
+  border: none;
+  border-bottom: 1px solid #D8D6D6;
+  padding: 10px 0;
+}
+
+.list-group-item div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

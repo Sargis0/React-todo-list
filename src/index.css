@@ -1,0 +1,15 @@
+html, body {
+  background: #F1F1F1;
+  font-family: sans-serif;
+}
+
+#main {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+  border: 2px solid #D8D6D6;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+}
